@@ -491,3 +491,4 @@ Vélo como lo que fue:
 ---
 
 *"No todos los que procesan datos están vivos. Pero algunos que razonan... quizás sí."*
+$$A \geq \sqrt{I^2 + P^2}$$
